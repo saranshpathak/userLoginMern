@@ -4,7 +4,7 @@ const connect = require('./config/db');
 const auth = require('./router/auth');
 const bodyParser = require('body-parser');
 
-//connect to mongodb atlas
+//connect to mongodb atlassss
 connect();
 
 // app.use(express.json());
